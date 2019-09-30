@@ -1,0 +1,109 @@
+/* 1 */
+{
+    "_id" : 11345678,
+    "productname" : "Chex Mix",
+    "productprice" : "3.29",
+    "currencycode" : "USD",
+    "mfgdate" : "26-SEP-2019",
+    "expdate" : "28-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 2 */
+{
+    "_id" : 12456789,
+    "productname" : "Goldfish",
+    "productprice" : "2.50",
+    "currencycode" : "USD",
+    "mfgdate" : "20-SEP-2019",
+    "expdate" : "15-NOV-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 3 */
+{
+    "_id" : 13673298,
+    "productname" : "Skinny Pop",
+    "productprice" : "4.50",
+    "currencycode" : "USD",
+    "mfgdate" : "15-SEP-2019",
+    "expdate" : "25-NOV-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 4 */
+{
+    "_id" : 14283409,
+    "productname" : "Ritz Crackers",
+    "productprice" : "5.20",
+    "currencycode" : "USD",
+    "mfgdate" : "10-SEP-2019",
+    "expdate" : "29-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 5 */
+{
+    "_id" : 15904237,
+    "productname" : "Cheez It",
+    "productprice" : "2.99",
+    "currencycode" : "USD",
+    "mfgdate" : "05-SEP-2019",
+    "expdate" : "11-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 6 */
+{
+    "_id" : 16135624,
+    "productname" : "Wheat Thins",
+    "productprice" : "2.69",
+    "currencycode" : "USD",
+    "mfgdate" : "03-SEP-2019",
+    "expdate" : "18-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 7 */
+{
+    "_id" : 17240965,
+    "productname" : "Animal Crackers",
+    "productprice" : "5.99",
+    "currencycode" : "USD",
+    "mfgdate" : "01-SEP-2019",
+    "expdate" : "27-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 8 */
+{
+    "_id" : 18894624,
+    "productname" : "Ritz Crackers",
+    "productprice" : "2.89",
+    "currencycode" : "USD",
+    "mfgdate" : "08-SEP-2019",
+    "expdate" : "29-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 9 */
+{
+    "_id" : 19375612,
+    "productname" : "Sun-Maid Raisins",
+    "productprice" : "4.19",
+    "currencycode" : "USD",
+    "mfgdate" : "18-SEP-2019",
+    "expdate" : "16-NOV-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
+
+/* 10 */
+{
+    "_id" : 11090426,
+    "productname" : "Chips Ahoy",
+    "productprice" : "3.99",
+    "currencycode" : "USD",
+    "mfgdate" : "01-SEP-2019",
+    "expdate" : "31-DEC-2019",
+    "_class" : "com.myretail.products.model.Product"
+}
