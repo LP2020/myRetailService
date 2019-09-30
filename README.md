@@ -35,6 +35,7 @@ Open Postman and run below scenarios
 # Scenario 1: Create products with the following details
 URL:  http://localhost:8000/myretail/product
 Method Type: POST
+
 Request body: {
 "productid": 13673298,
 "productname":"Skinny Pop",
@@ -55,6 +56,17 @@ Method Type: GET
 # Scenario 4: Update the price for a product:
 URL:http://localhost:8000/myretail/product/11090426 (sample product id)
 Method Type: PUT
+
 {
 "productprice":"3.99"
 }
+
+
+# How to Leverage this code:
+Security: Secure the service end points.
+Exception Handling  needs to be incorporated
+Error codes, status codes need to be incorporated
+Caching needs to be enabled in the services to improve the performance of the get calls. 
+Ensure periodic backups on the database.
+Set up load balancing in production environment to efficiently and intelligently distribute client requests or incoming network traffic across multiple servers.
+Update the documentation and ensure that standards and best practices are followed at all stages.
