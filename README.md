@@ -63,17 +63,17 @@ Method Type: PUT
 
 
 # How to Leverage this code:
-Security: Secure the service end points.
+Ensure to secure the service end points
 
 Exception Handling  needs to be incorporated
 
 Error codes, status codes need to be incorporated
 
-Caching needs to be enabled in the services to improve the performance of the get calls. 
+Caching needs to be enabled in the services to improve the performance of the get calls 
 
-Ensure periodic backups on the database.
+Ensure periodic backups on the database
 
-Set up load balancing in production environment to efficiently and intelligently distribute client requests or incoming network traffic across multiple servers.
+Set up load balancing in production environment to efficiently and intelligently distribute client requests or incoming network traffic across multiple servers
 
 Update the documentation and ensure that standards and best practices are followed at all stages.
 
